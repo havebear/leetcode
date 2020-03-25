@@ -20,4 +20,4 @@ var reverse = function(x) {
   return result
 }
 
-reverse(-123)
+console.log(reverse(-123))
