@@ -1,7 +1,7 @@
 /*
- * @Author: 616749285@qq.com
+ * @Author: BGG
  * @Date: 2020-03-25 19:16:02
- * @LastEditors: 616749285@qq.com
+ * @LastEditors: BGG
  * @LastEditTime: 2020-03-25 19:16:40
  * @Description:  最长公共前缀
  * https://leetcode-cn.com/problems/longest-common-prefix/

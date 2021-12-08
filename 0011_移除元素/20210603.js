@@ -1,7 +1,7 @@
 /*
- * @Author: 616749285@qq.com
+ * @Author: BGG
  * @Date: 2021-06-03 10:45:31
- * @LastEditors: 616749285@qq.com
+ * @LastEditors: BGG
  * @LastEditTime: 2021-06-03 14:00:41
  * @Description:  移除元素
  * https://leetcode-cn.com/problems/remove-element/

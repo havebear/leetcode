@@ -1,7 +1,7 @@
 /*
- * @Author: 616749285@qq.com
+ * @Author: BGG
  * @Date: 2020-04-02 12:55:29
- * @LastEditors: 616749285@qq.com
+ * @LastEditors: BGG
  * @LastEditTime: 2020-09-02 17:32:23
  * @Description:  一维数组的动态和
  * https://leetcode-cn.com/problems/running-sum-of-1d-array/

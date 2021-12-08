@@ -1,7 +1,7 @@
 /*
- * @Author: 616749285@qq.com
+ * @Author: BGG
  * @Date: 2020-03-25 11:09:55
- * @LastEditors: 616749285@qq.com
+ * @LastEditors: BGG
  * @LastEditTime: 2020-03-25 17:58:46
  * @Description:  回文数
  * https://leetcode-cn.com/problems/palindrome-number/

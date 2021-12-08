@@ -1,7 +1,7 @@
 /*
- * @Author: 616749285@qq.com
+ * @Author: BGG
  * @Date: 2020-04-02 12:55:29
- * @LastEditors: 616749285@qq.com
+ * @LastEditors: BGG
  * @LastEditTime: 2020-04-02 12:56:06
  * @Description:  有效的括号
  * https://leetcode-cn.com/problems/valid-parentheses/

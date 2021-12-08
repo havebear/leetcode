@@ -1,7 +1,7 @@
 /*
- * @Author: 616749285@qq.com
+ * @Author: BGG
  * @Date: 2020-03-25 18:35:25
- * @LastEditors: 616749285@qq.com
+ * @LastEditors: BGG
  * @LastEditTime: 2020-03-25 18:36:01
  * @Description:  罗马数字转整数
  * https://leetcode-cn.com/problems/roman-to-integer/

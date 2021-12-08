@@ -1,7 +1,7 @@
 /*
- * @Author: 616749285@qq.com
+ * @Author: BGG
  * @Date: 2020-03-24 13:31:21
- * @LastEditors: 616749285@qq.com
+ * @LastEditors: BGG
  * @LastEditTime: 2021-02-21 13:48:54
  * @Description:  两数之和
  * https://leetcode-cn.com/problems/two-sum/

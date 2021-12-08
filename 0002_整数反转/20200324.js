@@ -1,7 +1,7 @@
 /*
- * @Author: 616749285@qq.com
+ * @Author: BGG
  * @Date: 2020-03-24 14:31:00
- * @LastEditors: 616749285@qq.com
+ * @LastEditors: BGG
  * @LastEditTime: 2020-03-24 14:32:04
  * @Description:  整数反转
  * https://leetcode-cn.com/problems/reverse-integer/

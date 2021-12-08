@@ -1,7 +1,7 @@
 /*
- * @Author: 616749285@qq.com
+ * @Author: BGG
  * @Date: 2020-04-02 12:55:29
- * @LastEditors: 616749285@qq.com
+ * @LastEditors: BGG
  * @LastEditTime: 2020-09-02 16:35:06
  * @Description:  连续字符
  * https://leetcode-cn.com/problems/consecutive-characters/
